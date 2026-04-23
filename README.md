@@ -1,6 +1,6 @@
 🌐 Wikipedia Portal - Manual QA Test Report
 
-1. Project Overview
+## Project Overview
 
 This testing was performed on Wikipedia homepage (www.wikipedia.org) to evaluate basic functionality, usability, and stability.
 
@@ -11,7 +11,7 @@ The goal was simple:
 
 Scope was limited to manual testing only.
 
-2. 📋 Test Coverage
+## 📋 Test Coverage
 
 | Area | TCs | Pass | Fail | Observation |
 |------|-----|------|------|-------------|
@@ -28,7 +28,7 @@ Scope was limited to manual testing only.
 
 ---
 
-3. Key Observations
+## Key Observations
 	•	Overall experience is stable and predictable
 	•	Search works well for normal inputs
 	•	No major crashes or blocking issues found
@@ -36,7 +36,7 @@ Scope was limited to manual testing only.
 	•	Performance fluctuation noticed under slower network
 
 
-4. Bugs Found
+## Bugs Found
 
 BUG-01 - Search Input Handling (Edge Case)
 	•	Steps:
@@ -105,20 +105,21 @@ Low - UX inconsistency
 Detailed test cases and execution results are available in the attached Excel sheet.
 
 
-5. Tools Used
+## Tools Used
 	•	Chrome (primary testing)
 	•	Firefox (cross-browser validation)
 	•	Chrome DevTools (network and performance testing)
 	•	Screen reader for accessibility checks
 	•	Device toolbar for responsive testing
 
-6. Tester Notes
+## Tester Notes
 	•	Testing focused on real-world usage scenarios
 	•	Both valid and invalid inputs were tested
 	•	No critical security issue confirmed
 	•	Some findings may require deeper technical validation
 
-7. Conclusion
+
+## Conclusion
 
 Wikipedia portal is stable and performs well under normal conditions.
 
