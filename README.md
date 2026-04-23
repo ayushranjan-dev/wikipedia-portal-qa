@@ -1,4 +1,4 @@
-🌐 Wikipedia Portal — Manual QA Test Report
+🌐 Wikipedia Portal - Manual QA Test Report
 
 1. Project Overview
 
